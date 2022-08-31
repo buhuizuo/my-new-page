@@ -13,7 +13,7 @@ nav{background-color:oldlace;position:fixed;top:0;width:100%}nav a{display:inlin
 @media (min-width:935px){.content-wrap{flex-direction:row}.content-wrap img{height:250px;width:250px}
   .col-wide{padding-left:50px}}.btn{background-color:#ef233c;color:#fff;padding:0 5px}@media (min-width:440px){.btn{padding:10px}}
 .download{bottom:0;position:absolute;right:0}
-.education{background:linear-gradient(rgba(141,153,174,.8),rgba(141,153,174,.6)),url(./static/media/bg.308abedadf32269564d6.PNG) no-repeat fixed;background-size:cover;color:#333030;padding:40px 0}
+.education{background:linear-gradient(rgba(141,153,174,.8),rgba(141,153,174,.6)),url(/static/media/bg.308abedadf32269564d6.PNG) no-repeat fixed;background-size:cover;color:#333030;padding:40px 0}
 .edu-wrap{margin:0 auto;max-width:950px;padding:0 30px}.edu-wrap h2{font-size:1.7rem;margin-bottom:30px}.edu-wrap h3{font-size:1rem}
 .edu-wrap p{margin-bottom:10px}.edu-wrap ul{margin-top:0}.edu-wrap ul li{list-style-type:circle;margin-left:40px}.edu-wrap ul li:last-child{margin-bottom:30px}
 .experience{background-color:#edf2f4;padding-top:20px}.work-wrap{margin:0 auto;max-width:950px;padding:0 30px}
