@@ -7,7 +7,7 @@ body{-webkit-font-smoothing:antialiased;background-color:#fff;color:#666;font:12
 .hide,.none{display:none}.clearfix:after{clear:both;content:".";display:block;height:0;visibility:hidden}.clearfix{*zoom:1}h1{font-size:3rem}
 header{background-color:#0b012c;padding-top:30px;position:relative;text-align:center}
 nav{background-color:oldlace;position:fixed;top:0;width:100%}nav a{display:inline-block;font-weight:700;margin:8px}
-@media (min-width:440px){nav a{font-size:16px;margin:14px}}
+@media (min-width:440px){nav a{font-size:16px;margin:14px 60px}}
 .content-wrap{align-items:center;background-color:rgba(11,1,44,.9);color:oldlace;display:flex;flex-direction:column;margin:0 auto;max-width:950px;overflow:hidden;padding:40px 75px;text-align:center}
 .content-wrap img{border-radius:50%;height:150px;margin-bottom:5px;width:150px}@media (min-width:440px){.content-wrap img{height:200px;width:200px}}
 @media (min-width:935px){.content-wrap{flex-direction:row}.content-wrap img{height:250px;width:250px}
