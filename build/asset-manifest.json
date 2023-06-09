@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25fda78c.css",
+    "main.js": "/static/js/main.1750dafe.js",
+    "static/media/bg.PNG": "/static/media/bg.308abedadf32269564d6.PNG",
+    "static/media/myface.jpg": "/static/media/myface.f3a19168c2bc3155e158.jpg",
+    "static/media/wei-cui-resume.pdf": "/static/media/wei-cui-resume.ca4eb3465d99f90eb190.pdf",
+    "static/media/github_icon.png": "/static/media/github_icon.42c8b200314362c3b788.png",
+    "index.html": "/index.html",
+    "main.25fda78c.css.map": "/static/css/main.25fda78c.css.map",
+    "main.1750dafe.js.map": "/static/js/main.1750dafe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25fda78c.css",
+    "static/js/main.1750dafe.js"
+  ]
+}
